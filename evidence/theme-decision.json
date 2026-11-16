@@ -1,0 +1,10 @@
+{
+  "evidence_id": "theme",
+  "evidence_sha256": "ebae8836f03144e66f0c30d061a2f0e9625706fc2f66f80d525204504aa5ead4",
+  "revision": 3,
+  "assessment": {
+    "claim_quote": "The Cedar demo release supports CSV export.",
+    "evidence_quote": "Cedar version 1 offers a dark theme and custom colors.",
+    "relation": "INSUFFICIENT"
+  }
+}

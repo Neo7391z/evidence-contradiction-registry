@@ -1,0 +1,76 @@
+deploy {
+  agree: 4,
+  disagree: 0,
+  idle: 1,
+  total: 5,
+  independentAgree: 3,
+  leaderAddress: '0xdc3c84a9bc42d0b91219c27b00bbba8ca0f0259a',
+  unanimous: false
+}
+release-add {
+  agree: 3,
+  disagree: 0,
+  idle: 2,
+  total: 5,
+  independentAgree: 2,
+  leaderAddress: '0xd608c9abb63f1776c7f0ee447194d8d7ea441b8b',
+  unanimous: false
+}
+release-review {
+  agree: 3,
+  disagree: 1,
+  idle: 1,
+  total: 5,
+  independentAgree: 3,
+  leaderAddress: '0x628f4d491b8753be1ed022f6d920853b8b541937',
+  unanimous: false
+}
+known-issues-add {
+  agree: 3,
+  disagree: 0,
+  idle: 2,
+  total: 5,
+  independentAgree: 2,
+  leaderAddress: '0xf20cb474e5be2f56ea6be925d057c28f458270da',
+  unanimous: false
+}
+known-issues-review {
+  agree: 3,
+  disagree: 0,
+  idle: 2,
+  total: 5,
+  independentAgree: 2,
+  leaderAddress: '0xcce41534baa355c2c268ebd9efe4a9d395cd659b',
+  unanimous: false
+}
+theme-add {
+  agree: 3,
+  disagree: 0,
+  idle: 2,
+  total: 5,
+  independentAgree: 2,
+  leaderAddress: '0x7d74a02562b3c443a6b12fe7996bc5c9a578554e',
+  unanimous: false
+}
+theme-review {
+  agree: 3,
+  disagree: 0,
+  idle: 2,
+  total: 5,
+  independentAgree: 2,
+  leaderAddress: '0xea908540c5fbb68da844cc1be5eac8b23391e908',
+  unanimous: false
+}
+snapshot {
+  agree: 4,
+  disagree: 0,
+  idle: 1,
+  total: 5,
+  independentAgree: 3,
+  leaderAddress: '0xcce41534baa355c2c268ebd9efe4a9d395cd659b',
+  unanimous: false
+}
+release SUPPORTS
+known-issues CONTRADICTS
+theme INSUFFICIENT
+Public evidence verified; hosted simulator only. CONFLICT

@@ -1,0 +1,37 @@
+{
+  "network": "Hosted Studionet simulator (not production validator network)",
+  "chainId": 61999,
+  "address": "0x653142ECa3c69ebAb4D48d6A72029B7884755753",
+  "owner": "0x70a7Cb84FACdF781541a168d31a0E825BE4F4218",
+  "sourceSha256": "8a50e698d3f3972a832fea020be6cf39bbefd471677e3b28a2ac2381366fa6bc",
+  "state": {
+    "claim": "The Cedar demo release supports CSV export.",
+    "context": "Synthetic software release notes, Cedar version 1. No real product.",
+    "owner": "0x70a7Cb84FACdF781541a168d31a0E825BE4F4218",
+    "revision": 3,
+    "reviewed": 3,
+    "ids": [
+      "release",
+      "known-issues",
+      "theme"
+    ],
+    "capacity": 8
+  },
+  "validatedAt": "2026-11-16T13:44:40.930Z",
+  "scenarios": [
+    {
+      "id": "release",
+      "expected": "SUPPORTS"
+    },
+    {
+      "id": "known-issues",
+      "expected": "CONTRADICTS"
+    },
+    {
+      "id": "theme",
+      "expected": "INSUFFICIENT"
+    }
+  ],
+  "studio": "https://studio.genlayer.com/?import-contract=0x653142ECa3c69ebAb4D48d6A72029B7884755753",
+  "explorer": "https://explorer-studio.genlayer.com/address/0x653142ECa3c69ebAb4D48d6A72029B7884755753"
+}

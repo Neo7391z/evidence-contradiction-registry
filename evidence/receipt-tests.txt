@@ -1,0 +1,22 @@
+✔ successful majority preserves dissent (1.957581ms)
+✔ quorum cancellation is not dissent or agreement (0.381653ms)
+✔ unanimity only if all five agree (0.269485ms)
+✔ reject nonfinal (0.393211ms)
+✔ reject failed leader (0.265559ms)
+✔ reject failed validator (0.242405ms)
+✔ reject duplicate validator (0.269405ms)
+✔ reject missing receipt (0.24624ms)
+✔ reject leader only (0.216385ms)
+✔ reject vote mismatch (0.305059ms)
+✔ reject unexplained idle (0.319029ms)
+✔ reject invalid result (0.186911ms)
+✔ reject missing identity (0.254423ms)
+✔ reject minority agreement (0.224116ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 229.005562

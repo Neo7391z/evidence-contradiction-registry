@@ -1,0 +1,10 @@
+{
+  "evidence_id": "release",
+  "evidence_sha256": "b2fb9083663f34ba16b07edff058ec8296723204e6bc44ba7e90a8b857c670a5",
+  "revision": 1,
+  "assessment": {
+    "claim_quote": "The Cedar demo release supports CSV export.",
+    "evidence_quote": "Cedar version 1 includes CSV export.",
+    "relation": "SUPPORTS"
+  }
+}

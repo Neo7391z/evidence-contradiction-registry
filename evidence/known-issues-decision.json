@@ -1,0 +1,10 @@
+{
+  "evidence_id": "known-issues",
+  "evidence_sha256": "34ad574550b9e418cadb318a185af37318fc457735f00e0720c60d15098e09ba",
+  "revision": 2,
+  "assessment": {
+    "claim_quote": "The Cedar demo release supports CSV export.",
+    "evidence_quote": "Cedar version 1 does not support CSV export.",
+    "relation": "CONTRADICTS"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "evidence-contradiction-registry",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "node scripts/demo.mjs",
+    "verify": "node scripts/verify.mjs",
+    "test:receipts": "node --test tests/consensus.test.mjs",
+    "test": "node --test tests/consensus.test.mjs"
+  },
+  "dependencies": {
+    "genlayer-js": "1.1.8",
+    "viem": "2.57.19"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

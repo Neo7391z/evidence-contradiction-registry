@@ -1,0 +1,15 @@
+{
+  "claim": "The Cedar demo release supports CSV export.",
+  "revision": 3,
+  "status": "CONFLICT",
+  "supporting": [
+    "release"
+  ],
+  "contradicting": [
+    "known-issues"
+  ],
+  "insufficient": [
+    "theme"
+  ],
+  "complete": true
+}
